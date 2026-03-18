@@ -53,6 +53,4 @@ This portfolio was built using simple HTML and CSS and hosted using GitHub Pages
 
 
 
-
-
-This is a personal project and will be continuously updated as I build more projects and improve my skills.
+This is a group project and will be continuously updated as I build more personal projects and improve my skills.
